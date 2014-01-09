@@ -1,0 +1,17 @@
+{
+  "name": "codemash-hello-mongo",
+  "version": "0.1.0",
+  "description": "",
+  "main": "web.js",
+  "dependencies": {
+    "connect-mongo": "~0.4.0",
+    "express": "~3.4.4",
+    "ejs": "~0.8.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@heroku.com:codemash-hello-mongo.git"
+  },
+  "author": "Toby Miller <tobius.miller@gmail.com> (https://github.com/tobius)",
+  "license": "MIT"
+}
