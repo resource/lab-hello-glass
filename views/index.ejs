@@ -6,7 +6,7 @@
     </head>
     <body>
         <%= text %>
-        <%= (data !== undefined) ? JSON.stringify(data, null, 4) : '' %>
+        <pre><%= (data !== undefined) ? JSON.stringify(data, null, 4) : '' %></pre>
     </body>
 </html>
 
