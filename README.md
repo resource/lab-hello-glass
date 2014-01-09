@@ -22,7 +22,8 @@ web application framework for [Node.js](http://nodejs.org/) with
 [~/codemash-hello-glass] heroku ps:scale web=1
 [~/codemash-hello-glass] heroku open
 
-create glassware
+create glassware (note: glass quickstart projects show you how to do this)
+https://developers.google.com/glass/develop/mirror/quickstart/php
 
 [~/codemash-hello-glass] vi lib/config.js
 [~/codemash-hello-glass] git commit lib/config.js -m 'my first glassware app'
