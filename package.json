@@ -6,7 +6,8 @@
   "dependencies": {
     "connect-mongo": "~0.4.0",
     "express": "~3.4.4",
-    "ejs": "~0.8.5"
+    "ejs": "~0.8.5",
+    "googleapis": "~0.4.7"
   },
   "repository": {
     "type": "git",
